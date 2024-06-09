@@ -22,7 +22,6 @@
 <table>
     <tr>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanmorais23&layout=compact&theme=dark" "Top Languages"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanmorais23&show_icons=true&theme=dark" alt="Stats"/>
     </tr>
     
 </table>
