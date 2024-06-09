@@ -21,11 +21,8 @@
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/thiagoclopes#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=thiagoclopes&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/thiagoclopes#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=thiagoclopes&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/thiagoclopes#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoclopes&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/thiagoclopes#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoclopes&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/thiagoclopes#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagoclopes&theme=default"/></a><a href="https://github.com/thiagoclopes#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagoclopes&theme=tokyonight"/></a></td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanmorais23&layout=compact&theme=dark" "Top Languages"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanmorais23&show_icons=true&theme=dark" alt="Stats"/>
     </tr>
     
 </table>
